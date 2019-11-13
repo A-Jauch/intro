@@ -43,6 +43,7 @@ section h1, footer h1, nav a
 {
     font-family: Dayrom, serif;
     font-weight: bold;
+    color : red;
     text-transform: uppercase;
 }
 
