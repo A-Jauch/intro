@@ -1,4 +1,4 @@
-/* Définition des polices personnalisées */
+* Définition des polices personnalisées */
 
 @font-face
 {
@@ -19,7 +19,7 @@
     src: url('polices/dayrom.eot?#iefix') format('embedded-opentype'),
          url('polices/dayrom.woff') format('woff'),
          url('polices/dayrom.ttf') format('truetype'),
-         url('polices/dayrom.svg#Dayrom') format('svg');
+1         url('polices/dayrom.svg#Dayrom') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -30,7 +30,7 @@ body
 {
     background: url('images/fond_jaune.png');
     font-family: 'Trebuchet MS', Arial, sans-serif;
-    color: #181818;
+    color: blue;
 }
 
 #bloc_page
@@ -42,7 +42,8 @@ body
 section h1, footer h1, nav a
 {
     font-family: Dayrom, serif;
-    font-weight: normal;
+    font-weight: bold;
+    color : red;
     text-transform: uppercase;
 }
 
