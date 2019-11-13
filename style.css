@@ -1,4 +1,4 @@
-/* Définition des polices personnalisées */
+* Définition des polices personnalisées */
 
 @font-face
 {
@@ -30,7 +30,7 @@ body
 {
     background: url('images/fond_jaune.png');
     font-family: 'Trebuchet MS', Arial, sans-serif;
-    color: #181818;
+    color: blue;
 }
 
 #bloc_page
